@@ -14,7 +14,7 @@ KIS 사용되고 있는 Reference panel marker download 경로입니다.
 | column name | INFO |
 |------------|------|
 | `id`       | marker ID (형식: `chr:pos:ref:alt`, 예: `10:61411:G:A`) |
-| `position` | hg19 기준 유전체 상 위치 (Position on hg19 reference genome) |
+| `position` | Position on hg19 reference genome |
 | `a0`       | Reference allele |
 | `a1`       | Alternative allele  |
 | `all.aaf`  | Alternative allele frequency  |
