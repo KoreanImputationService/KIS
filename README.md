@@ -19,10 +19,7 @@ KIS 사용되고 있는 Reference panel marker download 경로입니다.
 | `a1`       | Alternative allele  |
 | `all.aaf`  | Alternative allele frequency  |
 
-### 📘 예시 해석
-
-
 
 ## Citation:
 1. Hwang, Mi Yeong, et al. "Analyzing the Korean reference genome with meta-imputation increased the imputation accuracy and spectrum of rare variants in the Korean population." Frontiers in Genetics
-2. This research was supported by KI Cloud of Division of National Supercomputing Center, Korea Institute of Science and Technology Information(KIST
+2. This research was supported by KI Cloud of Division of National Supercomputing Center, Korea Institute of Science and Technology Information(KISTI)
