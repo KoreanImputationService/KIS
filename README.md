@@ -1,4 +1,4 @@
-# Korean imputation Service Support
+# Korean Imputation Service Support
 
 KIS (Korean Imputation Service) 입니다.
 
