@@ -1,13 +1,11 @@
-# KIS
-Korean imputation Service Support
+# Korean imputation Service Support
 
-Korean Imputation Service (KIS) 입니다.
+KIS (Korean Imputation Service) 입니다.
 
-KIS 사용되고 있는 Reference panel marker download 경로입니다.
+KIS 사용되고 있는 Reference panel marker download 경로입니다:
 
-* KIS phase I (n=4,799) : https://drive.google.com/file/d/1RJuETfkGr0egYkWmb4HKJIeXRLv5f02A/view?usp=sharing
-
-* KIS phase II (n = 8,062) : https://drive.google.com/file/d/1vzchiy0JXKeYWXf4XGxrc0fxOGLIt0fy/view?usp=sharing
+- **KIS phase I (n = 4,799)** : [Download](https://drive.google.com/uc?export=download&id=1RJuETfkGr0egYkWmb4HKJleXRLv5f02A)
+- **KIS phase II (n = 8,062)** : [Download](https://drive.google.com/uc?export=download&id=1vzchiy0JXKeYWXf4XGxrcOfxOGLlt0fy)
 
 ### 🔍 column INFO.
 
